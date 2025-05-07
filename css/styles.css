@@ -211,7 +211,7 @@ img {
 
 /* Hero Section */
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://placehold.co/1200x600");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("./assets/Main-header_7_11zon.jpg");
   background-size: cover;
   background-position: center;
   color: white;
