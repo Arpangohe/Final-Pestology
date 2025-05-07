@@ -243,7 +243,7 @@ img {
 
 /* Page Hero */
 .page-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://drive.google.com/file/d/1O1FZ5kW27Z_VRZskmprdhjKAQq5dI_DD/view?usp=drive_link");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://i.postimg.cc/9M75XkXH/Main-header.jpg");
   background-size: cover;
   background-position: center;
   color: white;
@@ -252,7 +252,7 @@ img {
 }
 
 .about-hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://drive.google.com/file/d/1q6bZxQ33005qQeJxBDBsVo8nQ-zhgaSt/view?usp=drive_link");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://i.postimg.cc/Cx7w995v/about.jpg");
 }
 
 .services-hero {
